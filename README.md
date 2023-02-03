@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advance flutter concept**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtifAhmadofc](https://github.com/AtifAhmadofc?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://atifahmad80.github.io/Portfolio](https://atifahmad80.github.io/Portfolio/)
 
 - 💬 Ask me about **Flutter or any tech-related stuff.**
 
